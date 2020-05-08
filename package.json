@@ -13,6 +13,7 @@
     "bcrypt": "^4.0.1",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
+    "ejs": "^3.1.2",
     "ejs-layouts": "0.0.1",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
